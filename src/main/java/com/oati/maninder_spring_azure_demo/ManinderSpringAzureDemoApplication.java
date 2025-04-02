@@ -11,7 +11,7 @@ public class ManinderSpringAzureDemoApplication {
 
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Congratulation !!! ManinderSpringAzureDemo is deployed successfully.";
+		return "Congratulation Tested again!!! ManinderSpringAzureDemo is deployed successfully.";
 	}
 	
 	public static void main(String[] args) {
